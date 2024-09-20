@@ -1,18 +1,17 @@
-## Getting Started
+# Juego HangMan (realizado en Java) en Modo Consola!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Codigo del popular juego del Ahorcado (HangMan) realizado con el lenguaje de progamación Java con la salvedad de que el juego es en Modo Consola.
 
-## Folder Structure
+## Descripcion
 
-The workspace contains two folders by default, where:
+Tienes que adivinar la palabra oculta, para eso deberas de ir ingresando al juego letra por letra según tu creas que la letra que sugieres está en la palabra oculta por cada letra erronea que ingreses perderas un turno, si la letra que ingresaste está en la palabra oculta puedes seguir jugando y no perderas turno, si llegaste al maximo de intentos y no adivinaste la palabra oculta el juego termina. Si adivinas la palabra, recibiras las congratulaciones y habras ganado el juego.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Herramientas utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ 1. Clase Scanner
+ 2. Declaracion y Asignacion de Variables
+ 3. Arrays
+ 4. Estructuras de Control iterativa (bucle)
+ 5. Clase String y sus metodos: valueOf(), charAt() y length()
+ 6. Clase Character y su metodo .toLowerCase()
+ 7. Estructuras de Contron condicional
